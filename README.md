@@ -4,7 +4,7 @@ Este projeto mostra as horas do momento, usei api externa para mostrar as mensag
 ## Tecnologias Usadas:
 
   REACT<img align="center" alt="Paulo-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Paulo-REACT" />
-   REACT<img align="center" alt="Paulo-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Paulo-REACT" />
+  TYPESCRIPT<img align="center" alt="Paulo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Paulo-TYPESCRIPT" />
 
 ### Intalação
 `npm install`
